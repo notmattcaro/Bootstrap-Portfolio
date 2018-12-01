@@ -1,0 +1,34 @@
+.jumbotron.photoBg {
+   /* background: url('img/hotelDel.jpg') no-repeat center center;*/
+    background-color: #e26c2f;
+    padding-left: 125px;
+    padding-right: 125px;
+    border-radius: 0rem;
+}
+.fontColor.textColor {
+    color: white;
+}
+/*this is for the button portion and it's color*/
+.btn.btn-primary.btn-lg {
+    background-color: #735a99;
+    border-color: #735a99;
+}
+/*this is for the cards*/
+.col-md-6.colPadding {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+.col-sm-6.cardbg {
+    border-top: 16px;
+}
+.cardbg {
+    background-color: grey;
+}
+.card-body {
+    background-color: #cdd5d1;
+    color: #735a99;
+}
+.text-muted {
+    color: #735a99 !important;
+}

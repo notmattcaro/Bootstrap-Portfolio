@@ -1,0 +1,93 @@
+/*Spacing for body container*/
+/*#About {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 9%;
+    margin-left: 9%;
+}
+#About2 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 9%;
+    margin-left: 9%;
+}*/
+
+
+
+
+/*
+#About {
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 0px;
+}
+#About2 {
+    background-color: #735a99;
+}
+#AboutSpacing {
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-right: 9%;
+    margin-left: 9%;
+}
+#bioSpacing {
+    margin-top: 80px;
+}
+*/
+
+
+
+
+/*body*/
+body {
+    margin: 0;
+    padding: 0;
+}
+/*About Containers*/
+#About {
+    margin: 0;
+    padding: 0;
+}
+#About2 {
+    margin: 0;
+    padding: 0;
+    background-color: #735a99;
+}
+#AboutSpacing {
+    padding-left: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+/*image size*/
+img {
+    width: 330px;
+    height: 412px;
+}
+/*text color and font modification*/
+.c2p, .c2h3, .c3h3, .c3p {
+    line-height: 1.25;
+}
+.c2p {
+    clear: both;
+    color: white; 
+}
+.c2h3 {
+    color: #e26c2f;
+}
+.c3h3 {
+    color: #735a99; 
+}
+.c3ph {
+    font-size: 1.25rem;
+}
+.c3p {
+    color: #464655;
+    font-size: 1rem;
+}
+.c2h3, .c3h3 {
+    font-size: 1.5rem;
+}
+/*bioSpacing css*/
+#bioSpacing {
+    margin: 5%;
+}
